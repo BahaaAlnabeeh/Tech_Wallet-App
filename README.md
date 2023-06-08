@@ -42,7 +42,14 @@ Main Screens
 
 ![Artboard – 18](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/9a1c45bb-cf7c-44dd-a294-f0015ddf2731)
 
+![Artboard – 24](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/ed638e9b-67c7-48d0-a4c0-c5320d72c0cc)
 
+![Artboard – 20](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/3512849d-5d35-469c-bc38-d9490ef5a3ce)
 
+![Artboard – 21](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/6821ee4a-4b5a-4728-b6a9-35387a0c7a34)
 
+![Artboard – 22](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/e6de5f11-91da-46c2-83fb-16e49d310473)
 
+![Artboard – 19](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/ad986eba-fcc5-4df4-bdb2-f50af318e2e8)
+
+![Artboard – 19](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/b0c19bc0-e46b-4b35-8f02-2e9356d1fb33)
