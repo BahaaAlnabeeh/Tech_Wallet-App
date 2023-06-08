@@ -5,14 +5,14 @@ The Tech Wallet Pro application is a very special application that has been prog
 The app is programmed with the Flutter framework and linked with APIs and part with Firebase
 The application contains several unique features, including:
 
-You can transfer money from one wallet to another or request to withdraw it through an electronic bank.
-It contains a section similar to the social media system, such as stories and posts, and interaction with them, whether by commenting, liking, etc...
-You can buy courses through the application and watch them smoothly and nicely like Udemy
-You can share the blog or course you like on social media and others (Deep linking)
-The application is multi-language.
-Contains FCM notifications.
-You can also scan the QR code of the wallet you want to transfer money to prevent any defect by placing the wallet address.
-You can edit your profile picture and details.
+* You can transfer money from one wallet to another or request to withdraw it through an electronic bank.
+* It contains a section similar to the social media system, such as stories and posts, and interaction with them, whether by commenting, liking, etc...
+* You can buy courses through the application and watch them smoothly and nicely like Udemy
+* You can share the blog or course you like on social media and others (Deep linking)
+* The application is multi-language.
+* Contains FCM notifications.
+* You can also scan the QR code of the wallet you want to transfer money to prevent any defect by placing the wallet address.
+* You can edit your profile picture and details.
 
 For more details, do not hesitate to contact me at Email: alnbyhbha@gmail.com.
 
