@@ -20,7 +20,7 @@ App Screens:
 
 Splash And OnBoarding Screens
 
-![Artboard – 6](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/f01b4856-cce2-4899-b419-c8e447ff198f)
+![Artboard – 6](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/71769c55-874f-47f4-8924-e7a6580e9a4f)
 
 ![Artboard – 7](https://github.com/BahaaAlnabeeh/Tech_Wallet-App/assets/42490211/3c00bb23-b44d-4548-91e5-ac5fbcbdbd1e)
 
